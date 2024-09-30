@@ -51,7 +51,6 @@ public class HelloWorld : MonoBehaviour
     {
         Debug.Log("Hello World");
     }
-    void Update()
 }
 
 ```
